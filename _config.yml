@@ -1,5 +1,3 @@
 title: Learning to Build, Building to Learn.
 description: Exploring the Depths of Data and AI: Journey Through Learning and Sharing
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-minimal
