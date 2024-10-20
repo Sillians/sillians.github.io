@@ -1,5 +1,6 @@
 title: Learning to Build, Building to Learn.
-description: Exploring the Depths of Data and AI, Journey Through Learning and Sharing.
-remote_theme: pages-themes/architect@v0.2.0
+description: Exploring the Depths of Data and Machine Learning, Journey Through Learning and Sharing.
+# remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-minimal
 # plugins:
 # - jekyll-remote-theme 
