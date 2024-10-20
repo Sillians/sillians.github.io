@@ -1,1 +1,4 @@
-With a background in Bayesian Statistics and coding experience mainly in R, I’m learning how to combine my maths skills with some software engineering, in an exciting role at Red Hat. Along with a team of data scientists and software engineers, we work to develop intelligent applications for a range of use cases. I’m blogging little things I find interesting on my journey through work.
+With a background in data science and extensive Python experience, I'm diving deeper into solving real-world problems
+using data engineering and machine learning. Every day presents new challenges, and my passion for contnuous leanring
+drives me to explore complex challenges, refine my skills, and share the insights I gain along the way. I'm committed to
+learning through building, and building through learning, from foundational computer science principles, software engineering practices, to cutting-edge machine learning techniques. Join me as I share insights and lessons from this evolving journey.
