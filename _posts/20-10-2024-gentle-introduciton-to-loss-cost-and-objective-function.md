@@ -1,7 +1,3 @@
-layout: post
-title: "A gentle introduciton to Loss, Cost and Objective Function"
-date: 2024-10-20 23:23:23 -0000
-
 # A gentle introduciton to Loss, Cost and Objective Function
 
 Most often, the terms `loss function`, `cost function` and the `objective function` are used interchangeably, and are key concepts in machine learning and optimization; despite this, they do have distinct definitions. 
